@@ -110,12 +110,9 @@ python crop.py
 📦 Crop/
 ├── 📜 crop.py                    # 批量图像处理脚本
 ├── 📜 plot_rec.py                # 交互式裁剪与坐标获取工具
-├── � requirements.txt           # Python 依赖包列表
-├── 📜 LICENSE                    # MIT 开源许可证
-├── 📜 .gitignore                 # Git 忽略文件配置
 ├── 📜 README.md                  # 英文说明文档
 ├── 📜 README_CN.md               # 中文说明文档
-├── �📂 input_images/              # [输入] 存放原始图像
+├── 📂 input_images/              # [输入] 存放原始图像
 ├── 📂 cropped_images/            # [输出] 存放裁剪后的图像
 └── 📂 images_with_rect/          # [输出] 存放带红色矩形框的图像
 ```
@@ -132,3 +129,4 @@ python crop.py
 ⭐ 如果这个项目对你有帮助，请给个 Star！
 
 </div>
+
