@@ -110,12 +110,9 @@ The program will automatically process all images in the `input_images` folder. 
 📦 Crop/
 ├── 📜 crop.py                    # Batch image processing script
 ├── 📜 plot_rec.py                # Interactive cropping & coordinate extraction tool
-├── � requirements.txt           # Python dependencies list
-├── 📜 LICENSE                    # MIT License
-├── 📜 .gitignore                 # Git ignore configuration
 ├── 📜 README.md                  # English documentation
 ├── 📜 README_CN.md               # Chinese documentation
-├── �📂 input_images/              # [Input] Folder for original images
+├── 📂 input_images/              # [Input] Folder for original images
 ├── 📂 cropped_images/            # [Output] Folder for cropped images
 └── 📂 images_with_rect/          # [Output] Folder for images with red rectangle marks
 ```
@@ -130,5 +127,6 @@ The program will automatically process all images in the `input_images` folder. 
 
 <div align="center">
 ⭐ Star this project if it helps you!
+
 
 </div>
